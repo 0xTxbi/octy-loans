@@ -34,7 +34,6 @@ function calculateResults(e) {
 		
 	}
 
-	console.log(amount.value);
 
 	e.preventDefault();
 }
