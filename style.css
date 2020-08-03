@@ -5,3 +5,9 @@ body {
 	box-sizing: border-box;
 
 }
+
+#loading, #results {
+
+	display: none;
+
+}
